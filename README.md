@@ -8,7 +8,6 @@
 
 #define TAMANHO_VETOR 6
 
-// Função para ordenar o vetor em ordem crescente
 void ordenarVetor(int vetor[], int tamanho) {
     int i, j, temp;
     for (i = 0; i < tamanho - 1; i++) {
